@@ -264,7 +264,7 @@ footer {
     float: left;
     padding: 0;
 }
-#center-about {
+#center-about{
     clear: both;
     width: 100%;
     float: left;
@@ -272,6 +272,15 @@ footer {
 
 
 }
+#times > div  {
+    width: 100%;
+    clear: both;
+    height: 150px;
+    padding: 0;
+}
+
+
+
 hr {
     display: none;
 }
